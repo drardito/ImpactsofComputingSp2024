@@ -1,6 +1,6 @@
 ## Feedback from Week1 Discussion
 
-<img src="https://images.unsplash.com/photo-1453738773917-9c3eff1db985?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="zoom:25%;" />
+![boy at microphone](https://images.unsplash.com/photo-1453738773917-9c3eff1db985?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 I have had the pleasure of reading through your discussion from Week 1 on the (possible) ethical dilemma I posed about a person ahead of you in the supermarket.
 
