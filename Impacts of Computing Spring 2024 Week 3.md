@@ -31,4 +31,4 @@ As you are reading these articles, please take notes using the document you crea
    
    [Here is how you would upload images](https://docs.mattermost.com/collaborate/share-files-in-messages.html) to your Mattermost posts.
 
-This work is due by the end of the day on **Monday, February 5 **.
+This work is due by the end of the day on ***Monday, February 5***.
