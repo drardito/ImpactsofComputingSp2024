@@ -4,7 +4,7 @@ The goal of this week is to introduce ourselves to the three ethical frameworks 
 
 * ***Virtue ethics*** - In philosophies of virtue ethics, rather than an emphasis on following rules, the emphasis is on developing oneself as a good person
 
-* ***Utilitarianism*** - Utilarianism explores the moral rightness or wrongness of an act depends on the consequences it produces. 
+* ***Utilitarianism*** - Utilitarianism explores the moral rightness or wrongness of an act depends on the consequences it produces. 
 
 * ***Deontology*** - Deontology (developed by Immanuel Kant) explores the question: what makes an action right or wrong? 
 
