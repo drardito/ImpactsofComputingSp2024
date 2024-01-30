@@ -7,7 +7,7 @@ The goal of this week is to apply the ethical frameworks with which we have been
 
 1. ***A Story to Get Us Started*** - Please listen to this brief story about mash potatoes and ethics (really) to set the context for this week's work.
 
-[insert SoundCloud embed link here]
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1731622248&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/gerald-ardito" title="Gerald Ardito" target="_blank" style="color: #cccccc; text-decoration: none;">Gerald Ardito</a> · <a href="https://soundcloud.com/gerald-ardito/week-3-impacts-of-computing-spring-2024" title="Week 3 - Impacts Of Computing Spring 2024" target="_blank" style="color: #cccccc; text-decoration: none;">Week 3 - Impacts Of Computing Spring 2024</a></div>
 
 2. ***Readings/Viewings***
 
@@ -27,8 +27,8 @@ As you are reading these articles, please take notes using the document and/or f
 
 3. ***Interactions***
 
-   Now that you have done the reading and ethical analyses of these three articles, it is time for you to interact with one another. In order to do so, I ask that you ***create a diagram*** that captures the findings of your ethical analysis, and then share it with us on Mattermost in the Week 3 channel, along with ***some commentary*** that highlights the major takeaways from your analysis AND the major questions you are left with from doing this work.
-   
-   [Here is how you would upload images](https://docs.mattermost.com/collaborate/share-files-in-messages.html) to your Mattermost posts.
+Now that you have done the reading and ethical analyses of these three articles, it is time for you to interact with one another. In order to do so, I ask that you ***create a diagram*** that captures the findings of your ethical analysis, and then share it with us on Mattermost in the Week 3 channel, along with ***some commentary*** that highlights the major takeaways from your analysis AND the major questions you are left with from doing this work.
+
+[Here is how you would upload images](https://docs.mattermost.com/collaborate/share-files-in-messages.html) to your Mattermost posts.
 
 This work is due by the end of the day on ***Monday, February 5***.
