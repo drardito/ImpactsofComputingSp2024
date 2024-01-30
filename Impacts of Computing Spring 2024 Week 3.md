@@ -23,7 +23,7 @@ As you do so, please read them from two perspectives:
 1. ***The technology or technologies being discussed***. What are these technologies? Were they developed for the purposes discussed OR are they applications of other technologies? What are the stated goals of the described usages of these technologies? How well do you think these technologies would meet or fail to meet the stated goals?
 2.  ***The Ethical implications for the applications of the technologies being discussed***. How would you assess the ethical implications of the stated usages of these technologies in these scenarios? How would we apply each of our three ethical frameworks to these scenarios? 
 
-As you are reading these articles, please take notes using the document you created as a part of the work for Week 2. As I said last week,  the goal of these notes is to help you make sense of what you are reading and then having a reference to which you can refer as you apply these concepts (which you will start doing this week). 
+As you are reading these articles, please take notes using the document and/or folder you created as a part of the work for Week 2. As I said last week, the goal of these notes is to help you make sense of what you are reading and then having a reference to which you can refer as you apply these concepts (which you will start doing this week). 
 
 3. ***Interactions***
 
