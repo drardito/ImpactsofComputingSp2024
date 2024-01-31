@@ -20,7 +20,7 @@ Here is some feedback about your work in that discussion.
    
       ![](https://i.imgur.com/6NGRO3h.png)
    
-   3. *Relationships Between Words.* [This visualization]([Voyant Tools (voyant-tools.org)](https://voyant-tools.org/?corpus=e86e9c578eeec07e3069053a325c625b&query=person&query=line&query=making&query=ethical&query=ask&query=virtue&query=ethics&query=deontology&query=utilitarianism&query=week&query=emphasizes&mode=corpus&context=7&view=CollocatesGraph)) reflects a similar trend. The term *virtue* is connected to far more words than either *utilitarianism* or *deontology*.  If you hover those two terms, you will see how they are connected to others. I wonder what you make of this.
+   3. *Relationships Between Words.* [This visualization](https://voyant-tools.org/?corpus=e86e9c578eeec07e3069053a325c625b&query=person&query=line&query=making&query=ethical&query=ask&query=virtue&query=ethics&query=deontology&query=utilitarianism&query=week&query=emphasizes&mode=corpus&context=7&view=CollocatesGraph) reflects a similar trend. The term *virtue* is connected to far more words than either *utilitarianism* or *deontology*.  If you hover those two terms, you will see how they are connected to others. I wonder what you make of this.
 
 
 
