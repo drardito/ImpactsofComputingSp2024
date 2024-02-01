@@ -15,7 +15,7 @@ Read these four articles:
 
 * Doctorow, [I assure you, an AI didn't write a terrible "George Carlin" routine](https://pluralistic.net/2024/01/29/pay-no-attention/#to-the-little-man-behind-the-curtain)
 * Kaiser-Schatzlein, [How Life as a Trucker Devolved Into a Dystopian Nightmare](https://manhattanville-my.sharepoint.com/:b:/g/personal/gerald_ardito_mville_edu/EReipYUxmUBBinuoDRUbsJkBAF3XCFqmRjjA0Nf6LslTDQ?e=uXwAPU)
-* McIntyre & Bradbury, [The eyes of Amazon: a hidden workforce driving a vast surveillance system](https://manhattanville-my.sharepoint.com/:b:/g/personal/gerald_ardito_mville_edu/ESbU26V25e5OnmhMyHZlR_IBTT2OleaTMSK4HJwhP9vutA?e=LGFspm)
+* McIntyre & Bradbury, [The eyes of Amazon: a hidden workforce driving a vast surveillance system](https://www.thebureauinvestigates.com/stories/2022-11-21/the-eyes-of-amazon-a-hidden-workforce-driving-a-vast-surveillance-system)
 * Thompson, [AI Won’t Steal Your Job, But It’ll Sure Make It Suck](https://manhattanville-my.sharepoint.com/:b:/g/personal/gerald_ardito_mville_edu/ERSRMN1B5URNivgRvkiIlAIB9Xj7u1qoV1rBVnMNVw9hMQ?e=9UO4CJ)
 
 As you do so, please read them from two perspectives:
