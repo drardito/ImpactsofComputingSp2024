@@ -27,7 +27,10 @@ As you are reading these articles, please continue take notes using the document
 
 3. ***Interactions***
 
-Now that you have done some reading about privacy/security/surveillance, I would like you to track your own interactions with computing devices this week. Try to keep track of the things (products, videos, locations, etc.) that are recommended to you as you use your computing devices. Then, think about what those devices either actually know about you (like your location) or think they know about you (your tastes, preferences, desires, etc.). Share your findings from this experiment with us on Mattermost in the ***Week 4 channel***. Feel free to include screenshots in your post if you like.
+@mtarby (Matt Tarby) had a great idea. He suggested that I offer time for all of us to go back and respond to the posts from Week 3, since those of you who posted at the end of the week frequently get fewer responses to their posts than those who post earlier in the week. So, there are two components of our ***interactions*** work:
+
+- *Week 3 Replies*. Take a look at the diagrams and commentary you and your classmates posted for Week 3 and leave replies/feedback/etc. for one another. Please do this by the **end of the day Wednesday**.
+- *Week 4 Discussion*. Now that you have done some reading about privacy/security/surveillance, I would like you to track your own interactions with computing devices this week. Try to keep track of the things (products, videos, locations, etc.) that are recommended to you as you use your computing devices. Then, think about what those devices either actually know about you (like your location) or think they know about you (your tastes, preferences, desires, etc.). Share your findings from this experiment with us on Mattermost in the ***Week 4 channel***. Feel free to include screenshots in your post if you like.
 
 [Here is how you would upload images](https://docs.mattermost.com/collaborate/share-files-in-messages.html) to your Mattermost posts.
 
