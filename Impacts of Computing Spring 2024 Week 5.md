@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1609054841737-9feb7029bd7b?q=80&w=1924&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="zoom:30%;" />
+<img src="https://images.unsplash.com/photo-1621508638997-e30808c10653?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="zoom:30%;" />
 
 The goal of this week is to explore the idea of ***Collective Moral Responsibility***, which arose from your discussions in Week 4. Over and over again, you talked about the collectives: families, friends, corporations, etc., as part of your responses. So, it is the right time to expand our ethical focus from the individual to the collective.
 
@@ -7,7 +7,7 @@ The goal of this week is to explore the idea of ***Collective Moral Responsibili
 
 1. ***Introduction to Week 5*** - Please listen this to brief audio introduction to Week 5.
 
-[insert embed code here]
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1744021803&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/gerald-ardito" title="Gerald Ardito" target="_blank" style="color: #cccccc; text-decoration: none;">Gerald Ardito</a> · <a href="https://soundcloud.com/gerald-ardito/week-5-impacts-of-computing-spring-2024" title="Week 5- Impacts Of Computing Spring 2024" target="_blank" style="color: #cccccc; text-decoration: none;">Week 5- Impacts Of Computing Spring 2024</a></div>
 
 2. ***Readings/Viewings***
 
