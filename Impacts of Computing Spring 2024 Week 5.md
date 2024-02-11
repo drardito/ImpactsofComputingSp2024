@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1621508638997-e30808c10653?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" style="zoom:30%;" />
+<img src="https://images.unsplash.com/photo-1621508638997-e30808c10653?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="600" height="600" alt="pile of plush toys">
 
 The goal of this week is to explore the idea of ***Collective Moral Responsibility***, which arose from your discussions in Week 4. Over and over again, you talked about the collectives: families, friends, corporations, etc., as part of your responses. So, it is the right time to expand our ethical focus from the individual to the collective.
 
