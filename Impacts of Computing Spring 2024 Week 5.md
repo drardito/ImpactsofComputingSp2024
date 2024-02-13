@@ -11,10 +11,11 @@ The goal of this week is to explore the idea of ***Collective Moral Responsibili
 
 2. ***Readings/Viewings***
 
-Read these two texts:
+Read these three texts:
 
 * IEP (Internet Encyclopedia of Philosophy), [Collective Moral Responsibility](https://iep.utm.edu/collective-moral-responsibility/) [This is a little chunky, but hang in there]
 * Jef Ausloos , Jill Toh , Alexandra Giannopoulou, [The case for collective action against the harms of data-driven technologies](https://www.adalovelaceinstitute.org/blog/collective-action-harms/) [from our new friends at the Ada Lovelace Institute]
+* Mia Sato, [The unsettling scourge of obituary spam](https://www.theverge.com/24065145/ai-obituary-spam-generative-clickbait) [very odd case study of AI impacting human life]
 
 As you do so, please read them from (at least) two perspectives:
 
