@@ -1,4 +1,4 @@
-<img src="https://plus.unsplash.com/premium_photo-1661542670487-50b20da799a4?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="600" height="400" alt="two people pushing a wheelchair">
+<img src="https://images.unsplash.com/photo-1531905117481-2117c6655c72?q=80&w=1624&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="600" height="400" alt="brick wall in two shades of blue">
 
 The goal of this week is to explore the ethics of ***Altruism***, which will complement and extend our discussion about *collective responsibility* from Week 5.
 
