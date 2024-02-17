@@ -21,7 +21,7 @@ As you do so, please read them from (at least) two perspectives:
 
 - ***What (if anything) is different about viewing ethical issues from a collective/networked perspective***? What does collective moral responsibility mean? Who is a member of which collective? What is the balance between individual and collective responsibility?
 
-- ***What ***. In what ways are data about you and I being used or possible abused? What do our computing systems know about us and how do they know these things? Give some thing, too, to the ethical implications of these uses of tracking/surveillance technologies.
+- ***In what ways are data about you and I being used or possible abused? What do our computing systems know about us and how do they know these things?*** Give some thought, too, to the ethical implications of these uses of tracking/surveillance technologies.
 
 As you are reading these articles, please continue take notes using the document and/or folder you created as a part of the work for previous weeks.  As I have said, the goal of these notes is to help you make sense of what you are reading and then having a reference to which you can refer as you apply these concepts. 
 
