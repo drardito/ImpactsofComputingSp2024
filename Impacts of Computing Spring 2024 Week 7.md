@@ -13,12 +13,12 @@ The goal of this week is to explore apply the work that we have been doing in th
 
 This week, we just have one text, which is a talk given at the end of January by Cory Doctorow, several of whose pieces we have read so far. Cory gave a prestigious talk recently, the  [Marshall McLuhan Lecture 2024](https://transmediale.de/en/2024/event/mcluhan-2024), which describes as being about what he calls *enshittification*: "Last year, I coined the term *enshittification*, to describe the way that platforms decay."
 
-I am providing links to the video of the talk itself as well as the text of his presentation. I strongly suggest watching/listening to the video:
+I am providing links to the video of the talk itself as well as Doctorow's commentary on his presentation. I strongly suggest watching/reading both:
 
 * [Video of talk](https://www.youtube.com/watch?v=Nycso_OQes0)
-* [Text of talk](https://pluralistic.net/2024/01/30/go-nuts-meine-kerle/#ich-bin-ein-bratapfel)
+* [Doctorow's Reflection on Talk](https://pluralistic.net/2024/01/30/go-nuts-meine-kerle/#ich-bin-ein-bratapfel)
 
-Please read/listen to them from (at least) two perspectives:
+Please watch/read them from (at least) two perspectives:
 
 - ***What does this talk have to do with the work of the course thus far? How does it related to the ethics and morality of computing and its impacts on our lives?***
 
