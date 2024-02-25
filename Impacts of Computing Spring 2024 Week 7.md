@@ -1,8 +1,6 @@
 <img src="https://images.unsplash.com/photo-1574974671999-24b7dfbb0d53?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="800" height="600" alt="garbage truck packed with garbate">
 
-The goal of this week is to explore apply the work that we have been doing in this unit so far on ***collective responsibility***, ***altruism***, and the moral and ethical effects of ***corporate actions**.
-
-One thing to keep in mind as you read these texts is the origin of value. For example, is the child responsible for and/or tainted by the sins of their parents? As a preview to next week, computers were born out of the need to win World War II in terms of codebreaking and designing the first atomic bombs. Does this mean that computers and computing are inherently bad or evil?
+The goal of this week is to explore apply the work that we have been doing in this unit so far on ***collective responsibility***, ***altruism***, and the moral and ethical effects of ***corporate actions***.
 
 
 #### Here is the work for Week 7:
@@ -17,8 +15,8 @@ This week, we just have one text, which is a talk given at the end of January by
 
 I am providing links to the video of the talk itself as well as the text of his presentation. I strongly suggest watching/listening to the video:
 
-* **[Video of talk](https://www.youtube.com/watch?v=Nycso_OQes0)**
-* **[Text of talk](https://pluralistic.net/2024/01/30/go-nuts-meine-kerle/#ich-bin-ein-bratapfel)**
+* [Video of talk](https://www.youtube.com/watch?v=Nycso_OQes0)
+* [Text of talk](https://pluralistic.net/2024/01/30/go-nuts-meine-kerle/#ich-bin-ein-bratapfel)
 
 Please read/listen to them from (at least) two perspectives:
 
