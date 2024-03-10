@@ -17,7 +17,7 @@ This week, we will do more listening and viewing and a little less reading.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kaGpgiXExS0?si=-y4c6f3uL5nGHiRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-* ***Reading*** - *Sandra Nelson, Annette Vee*, The view from "Zoom University": surveillance and control in higher ed's pandemic pedagogy pivot.
+* ***Reading*** - *Sandra Nelson, Annette Vee*, [The view from "Zoom University": surveillance and control in higher ed's pandemic pedagogy pivot.](https://sussex.figshare.com/articles/journal_contribution/The_view_from_Zoom_University_surveillance_and_control_in_higher_ed_s_pandemic_pedagogy_pivot/23490788 ) You can use the Download link.
 
 * ***Listening*** - [Rabbit Hole Podcast](https://www.nytimes.com/2020/04/22/podcasts/rabbit-hole-prologue.html), episodes “Start Here” and “One: Wonderland.”
 
