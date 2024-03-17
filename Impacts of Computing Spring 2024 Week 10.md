@@ -3,7 +3,7 @@
 This week continues  our work for Unit 3: Computing and Algorithms all the Way Down. In this two-week unit, we will take a deep dive into ***algorithms***: what they are; how they are used; the impact they have on our (digital) lives. The goal of this week is to immerse ourselves in the world of algorithms.
 
 
-#### Here is the work for Week 9:
+#### Here is the work for Week 10:
 
 1. ***Introduction to Week 10*** - Please listen this to brief audio introduction to Week 10.
 
