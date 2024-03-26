@@ -14,7 +14,11 @@ This week begins  our work for Unit 4: AI for Good or Ill. In this two-week unit
 
 This week, we will do more listening and viewing and a little less reading. 
 
-* ***Viewing*** - none this week
+* ***Viewing*** - 
+
+  * Torrey Trust, [GEN AI & Ethics: Investigating ChatGPT](https://docs.google.com/presentation/d/1t-M3rYPtu6899g0OTtGYcnVYLjZiqZgtrYL_mmxU3c8/edit?usp=sharing), Gemini, and Copilot (presentation)
+
+    
 
 * ***Readings*** - 
 
