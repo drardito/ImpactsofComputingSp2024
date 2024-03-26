@@ -16,7 +16,7 @@ This week, we will do more listening and viewing and a little less reading.
 
 * ***Viewing*** - 
 
-  * Torrey Trust, [GEN AI & Ethics: Investigating ChatGPT](https://docs.google.com/presentation/d/1t-M3rYPtu6899g0OTtGYcnVYLjZiqZgtrYL_mmxU3c8/edit?usp=sharing), Gemini, and Copilot (presentation)
+  * Torrey Trust, [GEN AI & Ethics: Investigating ChatGPT](https://manhattanville-my.sharepoint.com/:p:/g/personal/gerald_ardito_mville_edu/EfuQ5FAPsphPh7X2ZAeBP00Bsw_RE5TTNgIm3FbK73ofsw?e=gJLNZAg), Gemini, and Copilot (presentation)
 
     
 
