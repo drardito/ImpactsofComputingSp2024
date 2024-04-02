@@ -12,7 +12,7 @@ Here is what you will do:
 
 3. Third, once your proposal has been accepted, you will **conduct your project**. In doing your work, please use a wide variety of reputable sources. Be sure to keep notes and references as you go so you can share them with us as part of your final materials.
 
-4. Fourth, you will **prepare a presentation** of some kind. This can be a paper, slideshow, video, podcast, artwork, or something else that calls to you. You will share this presentation with all of us. As part of this presentation, please demonstrate how what you have learned specifically connects to the class.
+4. Fourth, you will **prepare a presentation** of some kind. This can be a paper, slideshow, video, podcast, artwork, or something else that calls to you. You will share this presentation with all of us. As part of this presentation, please demonstrate how what you have learned specifically connects to the class. Your presentation should include references formatted in the APA 7th style.
 
 
 
