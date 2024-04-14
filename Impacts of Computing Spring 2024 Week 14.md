@@ -26,6 +26,7 @@ As you work on your Final Projects, I think it is really important to stay conne
 
 Here are some prompts for these updates:
 
+- What is your project about?
 - What have you worked on this week?
 - What have you come across this week that has surprised you the most?
 - How, if at all, has your work on the project focused or even changed your thinking about the project?
@@ -33,4 +34,4 @@ Here are some prompts for these updates:
 
 ***Be sure to interact with one another about your progress updates as well***.
 
-This work is due by the end of the day on ***Monday,  April 22***.
+This work is due by the end of the day on ***Monday, April 22***.
