@@ -41,8 +41,6 @@ Thanks to @abramsons for this take:
 
 > I personally think that AI such as Nuance, Sensely, and VoxelMorph (as well as other AI technologies like that) can be extremely revolutionizing in the world of healthcare, diagnosing diseases at an early stage, recommending treatments for those diseases, and automating administrative tasks for healthcare workers.
 
-
-
 @wallyd will have the last word(s):
 
 >After several weeks of videos and readings that were mostly depressing or alarming, we had a week that wasn’t half-bad. (Thank you.) “MD vs. Machine: Artificial intelligence in health care” consisted of three talks and a panel. Although the first talk was about “AI”, the best example was the use of data science to UNDERSTAND the data through visualization and possibly classification, the use of traditional search (which is AI but not necessarily deep learning) to do research, and
