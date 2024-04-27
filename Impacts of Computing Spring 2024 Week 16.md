@@ -30,4 +30,4 @@ Here are some prompts for these updates:
 
 ***Be sure to interact with one another about your progress updates as well***.
 
-All of this work is due by the end of the day on **Friday, May 3**.
+All of this work is due by the end of the day on **Friday, May 3**. You should **upload** your Final Projects [here](https://manhattanville-my.sharepoint.com/:f:/g/personal/gerald_ardito_mville_edu/Ep_qrI26yipEjxrfXtZ88uEBZOgXw_ej_B5IkdHB0KoLug?e=dvtR9y).
